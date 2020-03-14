@@ -32,6 +32,9 @@
 
 ## 编程语言
 
+### C++
+《C++Primer Plus（第6版）中文版》
+
 链接：https://pan.baidu.com/s/1tLER2i6PZpUWw8hHotGRzQ 
 提取码：2n2v
 
