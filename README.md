@@ -7,7 +7,7 @@
 >
 >同时尽可能删除了所有的隐藏层和嵌入信息，一本1000页的书，也不会超过50M
 >
->最重要的是，不用关注公众号来获取解压密码（深度鄙视一些github仓库的这种行为）
+>最重要的是，不用关注公众号来获取解压密码
 
 *本着宁缺毋滥原则，需要筛选很多不合格的电子书，所以持续更新中*
 
@@ -29,14 +29,27 @@
 链接：https://pan.baidu.com/s/1fSttcWSZJi97m1jSp2dDKw 
 提取码：76nu 
 
+《高性能MySQL：第3版》
 
+《HTTP权威指南》
+
+《网络是怎样连接的》
+
+《30天自制操作系统》
 
 ## 编程语言
 
 ### C++
 《C++Primer Plus（第6版）中文版》
 
+《C和指针》
+
+### java
+
+《Java核心技术卷Ⅰ(原书第10版)》
+
 ### python
+
 《Flask Web开发：基于Python的Web应用开发实战》
 
 链接：https://pan.baidu.com/s/1Qms9GXQRThMR0V-0w6EYKA 
@@ -44,6 +57,12 @@
 
 
 ## 编程修养
+
+《像计算机科学家一样思考Python》
+
+《黑客与画家》
+
+《重构改善既有代码的设计第2版》
 
 链接：https://pan.baidu.com/s/1FKrRbstdG0VbTOg6yZWxCg 
 提取码：pe6k
