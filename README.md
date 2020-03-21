@@ -37,6 +37,13 @@
 
 《30天自制操作系统》
 
+## 数据库
+
+链接：https://pan.baidu.com/s/1PNv1Y20rILJF7Kvie-F8Rg 
+提取码：qdep 
+
+《mongodb权威指南第二版》
+
 ## 编程语言
 
 ### C++
