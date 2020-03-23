@@ -102,6 +102,14 @@
 链接：https://pan.baidu.com/s/1ZeysEQgfxnXeG7pcIlkTZA 
 提取码：6sxd
 
+## 其他
+
+《程序员健康指南》
+
+链接：https://pan.baidu.com/s/1PKpQ2AdNS4cFBfjpqdRt4A 
+提取码：y0mp 
+
+
 # 免责申明
 
  本书全部由网上整理，并经由本人进行精挑细选和适当的PDF处理，仅做自己保留和分享之用，侵删
